@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\KPTNET\KPTNET\obj\Debug\KPTNET.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\KPTNET\KPTNET\obj\Debug\KPTNET.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\KPTNET\KPTNET\bin\Debug\KPTNET.exe.config
+C:\Users\Lenovo\source\repos\KPTNET\KPTNET\bin\Debug\KPTNET.exe
+C:\Users\Lenovo\source\repos\KPTNET\KPTNET\bin\Debug\KPTNET.pdb
+C:\Users\Lenovo\source\repos\KPTNET\KPTNET\obj\Debug\KPTNET.exe
+C:\Users\Lenovo\source\repos\KPTNET\KPTNET\obj\Debug\KPTNET.pdb
